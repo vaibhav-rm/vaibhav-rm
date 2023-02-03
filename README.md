@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/>
+</p>
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate student developer from India</h3>
 
