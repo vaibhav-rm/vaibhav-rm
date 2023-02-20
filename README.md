@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Attendance app](https://github.com/vaibhav-rm/Open_source_attendance_app.git)
 
-- 🌱 I’m currently learnin **Python**
+- 🌱 I’m currently learnin **Java**
 
 - 💬 Ask me about **Javascript and linux**
 
