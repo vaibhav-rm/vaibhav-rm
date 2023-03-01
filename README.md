@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-rm&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-rm" /> </p>
 
-- 🔭 I’m currently working on [Attendance app](https://github.com/vaibhav-rm/Open_source_attendance_app.git)
+- 🔭 I’m currently working on [Cube app](https://github.com/vaibhav-rm/Interactive-cube.git)
 
 - 🌱 I’m currently learnin **Java**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rathodvaibhav401@gmail.com**
 
-- 📄 Know about my experiences [http://vaibhav.coolpage.biz/A/index.html](http://vaibhav.coolpage.biz/A/index.html)
+- 📄 Know about my experiences [Vaibhavs terminal](https://vaibhav-rm.github.io)
 
 - ⚡ Fun fact **I am a diploma student**
 
