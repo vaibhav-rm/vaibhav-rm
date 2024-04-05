@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-rm&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-rm" /> </p>
 
-- 🔭 I’m currently working on [Cube app](https://github.com/vaibhav-rm/Interactive-cube.git)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learnin **Java**
 
