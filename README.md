@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learnin **Java**
+- 🌱 I’m currently learnin **Full Stack**
 
 - 💬 Ask me about **Javascript and linux**
 
