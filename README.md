@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learnin **Full Stack**
+- 🌱 I’m currently learnin **OS Develepment**
 
 - 💬 Ask me about **Javascript and linux**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Vaibhavs terminal](https://vaibhav-rm.github.io)
 
-- ⚡ Fun fact **I am a diploma student**
+- ⚡ Fun fact **I use fedora as my daily driver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
